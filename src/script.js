@@ -552,3 +552,19 @@ function testLessThan(val) {
   }
   
   testLessOrEqual(10);
+
+
+//   comparsion with logical and operator
+
+function testLogicalAnd(val) {
+    
+    if (val>=25 && val<=50) {
+    
+        return "Yes";
+      }
+  
+    
+    return "No";
+  }
+  
+  testLogicalAnd(10);
