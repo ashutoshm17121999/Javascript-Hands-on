@@ -80,3 +80,8 @@ const difference = 150 -100;
 // Multiply two number
 
 const multiply = 15 * 15;
+
+// Divide one number with another 
+
+const quotient = 100 / 50;
+console.log(quotient);
