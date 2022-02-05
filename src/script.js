@@ -316,4 +316,10 @@ function functionWithArgs(q, r) {
 
 
 //   Remove a value from a function with return
-
+function timesFive(num) {
+    return num * 5;
+  }
+  
+  timesFive(5);
+  timesFive(2);
+  timesFive(0);
