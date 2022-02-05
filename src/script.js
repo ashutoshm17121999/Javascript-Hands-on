@@ -12,3 +12,10 @@ var myName;
 
 var a;
 a = 7;
+
+// Assigning the values of one variable to another
+
+var a;
+a = 7;
+var b;
+b=a;
