@@ -178,3 +178,9 @@ const myStrg2 = "This is the start." + " This is the end.";
 
 let myStrg3 = "This is the first sentence. ";
 myStrg3 += "This is the second sentence."
+
+
+// Constructing strings with variables
+
+const myName1 = "Ashutosh" ;
+const myStrg4 = "Hello, my name, is " + myName + ", how are you?";
