@@ -409,3 +409,12 @@ function nextInLine(arr, item) {
   console.log("Before: " + JSON.stringify(testArr));
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
+
+
+
+//   Understanding boolean values
+
+
+function welcomeToBooleans() {
+return true; 
+}
