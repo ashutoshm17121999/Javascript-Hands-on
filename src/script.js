@@ -225,3 +225,13 @@ const lastLetterOfLastName3 = lastName3[lastName3.length-1];
 
 const lastName4 = "Lovelace";
 const secondToLastLetterOfLastName4 = lastName4[lastName4.length-2];
+
+// Word Blanks
+
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
