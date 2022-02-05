@@ -85,3 +85,9 @@ const multiply = 15 * 15;
 
 const quotient = 100 / 50;
 console.log(quotient);
+
+
+// Increment the number with javascript
+
+let myVar = 199;
+myVar = ++myVar;
