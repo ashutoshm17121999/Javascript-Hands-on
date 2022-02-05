@@ -28,3 +28,13 @@ var a=9;
 
 var myFirstName="ashutosh";
 var myLastName="mishra";
+
+// Understanding unintialized variables
+
+var a=5;
+var b=10;
+var c="This is a";
+
+a = a + 1;
+b = b + 5;
+c = c + " String!";
