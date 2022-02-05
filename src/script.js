@@ -98,3 +98,6 @@ myVar = ++myVar;
 let a = 199;
 a = --a;
 
+// Create decemial numbers with javascript  
+
+const myDecimal = 7.7;
