@@ -113,3 +113,13 @@ const quotient = 14.4 / 2.0;
 // Finding a remainder in a javascript
 
 const remainder = 11 % 3;
+
+// compound assignment with augmented addition
+
+let a = 3;
+let b = 17;
+let c = 12;
+
+a += 12;
+b += 9 ;
+c +=  7;
