@@ -144,3 +144,15 @@ let k = 12;
 i *= 12;
 j *= 9 ;
 k *=  7;
+
+
+// compound assignment with augmented division
+
+
+let l = 3;
+let m = 17;
+let n = 12;
+
+l *= 12;
+m *= 9 ;
+n *=  7;
