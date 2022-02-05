@@ -173,3 +173,8 @@ const myStrg1 = "FirstLine\n\t\\SecondLine\nThirdLine";
 // Concatenating string with plus operator
 
 const myStrg2 = "This is the start." + " This is the end.";
+
+// Concatenating string with plus equal operator
+
+let myStrg3 = "This is the first sentence. ";
+myStrg3 += "This is the second sentence."
