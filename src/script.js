@@ -268,5 +268,9 @@ const myArray5 = [
   
   const myData1 = myArray5[2][1];
 
+// Multiple array with Push()
 
-  
+const myArray6 = [["John", 23], ["cat", 2]];
+myArray6.push(["dog", 3]);
+
+
