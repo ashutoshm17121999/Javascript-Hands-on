@@ -165,3 +165,7 @@ const myStr = "Ashutosh is, \"a employee, \"in a company, \" name CEDCOSS, \".";
 // Quoting string in single quotes
 
 const myStrg = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+// Escape sequences in string 
+
+const myStrg1 = "FirstLine\n\t\\SecondLine\nThirdLine";
