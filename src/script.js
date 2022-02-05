@@ -432,3 +432,16 @@ function trueOrFalse(wasThatTrue) {
   
   trueOrFalse(true);
   trueOrFalse(false);
+
+
+
+//   comparison with the equality operator
+function testEqual(val) {
+    if (val==12) { 
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);
+
