@@ -161,3 +161,7 @@ n *=  7;
 // escaping literal quotes in strings
 
 const myStr = "Ashutosh is, \"a employee, \"in a company, \" name CEDCOSS, \"."; 
+
+// Quoting string in single quotes
+
+const myStrg = '<a href="http://www.example.com" target="_blank">Link</a>';
