@@ -568,3 +568,21 @@ function testLogicalAnd(val) {
   }
   
   testLogicalAnd(10);
+//   Comparison with logical or operator
+
+
+function testLogicalOr(val) {
+    // Only change code below this line
+  
+    if (val<10 || val>20) {
+      return "Outside";
+    
+    }
+  
+    // Only change code above this line
+    return "Inside";
+  }
+  
+  testLogicalOr(15);
+
+
