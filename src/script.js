@@ -80,14 +80,21 @@ const difference = 150 -100;
 // Multiply two number
 
 const multiply = 15 * 15;
+console.log(multiply);
 
 // Divide one number with another 
 
 const quotient = 100 / 50;
-console.log(quotient);
+
 
 
 // Increment the number with javascript
 
 let myVar = 199;
 myVar = ++myVar;
+
+// Decrement the number with javascript
+
+let a = 199;
+a = --a;
+
