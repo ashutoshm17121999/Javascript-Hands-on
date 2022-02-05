@@ -479,3 +479,15 @@ function testNotEqual(val) {
   }
   
   testNotEqual(10);
+
+
+  //   comparison with strict inequality operator
+
+  function testStrictNotEqual(val) {
+    if (val!==17) { 
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  testStrictNotEqual(10);
