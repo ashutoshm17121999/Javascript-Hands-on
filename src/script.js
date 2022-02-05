@@ -109,3 +109,7 @@ const product = 8 * 9;
 // Divide one decimal with another
 
 const quotient = 14.4 / 2.0;
+
+// Finding a remainder in a javascript
+
+const remainder = 11 % 3;
