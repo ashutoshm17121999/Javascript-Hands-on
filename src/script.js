@@ -156,3 +156,8 @@ let n = 12;
 l *= 12;
 m *= 9 ;
 n *=  7;
+
+
+// escaping literal quotes in strings
+
+const myStr = "Ashutosh is, \"a employee, \"in a company, \" name CEDCOSS, \"."; 
