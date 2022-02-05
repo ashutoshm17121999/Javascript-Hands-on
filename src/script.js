@@ -681,7 +681,7 @@ if(strokes===1){
 golfScore(5, 4);
 
 
-// Selecting with many statements with switvh statements
+// Selecting  many statements with switch statements
 
 
 function caseInSwitch(val) {
