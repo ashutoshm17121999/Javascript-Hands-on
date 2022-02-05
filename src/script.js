@@ -241,4 +241,13 @@ const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 
 const myArray = ["peanut butter", 2, "bread"];
 
+// Nest one array with another array
 
+
+const myArray = [["Bulls", 23], ["White Sox", 45]];
+
+// Access array data with indexes
+
+const myArray = [50, 60, 70];
+
+const myData = myArray[0];
