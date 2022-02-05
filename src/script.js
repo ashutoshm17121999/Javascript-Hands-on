@@ -297,3 +297,10 @@ myArray9.unshift(["Paul", 35]);
 
 
 const myList = [["Chocolate Bar", 15], ["Fanta", 2], ["Sprite", 3], ["Pepsi", 4], ["Lays", 5]];
+
+
+// With reusable javascripts qith functyions
+
+function reusableFunction(){
+    colnsole .log("Hi Ashutosh");
+  }
