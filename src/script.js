@@ -325,7 +325,7 @@ function timesFive(num) {
   timesFive(0);
 
 
-//   globle scope and functions
+//   globlal scope and functions
 
 
 let myGlobal=10;
@@ -345,3 +345,15 @@ function fun2() {
   console.log(output);
 }
 
+
+// Local scope and functions
+
+function myLocalScope() {
+    
+  const myVar = "Ashutosh";
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  
+
+  console.log('outside myLocalScope', myVar);
