@@ -101,3 +101,7 @@ a = --a;
 // Create decemial numbers with javascript  
 
 const myDecimal = 7.7;
+
+// Multiply two decimal nymbers
+
+const product = 8 * 9;
