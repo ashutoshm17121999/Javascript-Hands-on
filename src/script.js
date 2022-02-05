@@ -70,3 +70,8 @@ console.log(FCC, fact);
 
 
 const sum = 100 + 100;
+
+
+// Subtract one number from another using javascript
+
+const difference = 150 -100;
