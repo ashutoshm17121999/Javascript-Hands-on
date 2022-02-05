@@ -132,5 +132,15 @@ let z = 12;
 
 x -= 12;
 y -= 9 ;
-z =  7;
+z -=  7;
 
+// compound assignment with augmented multiplication
+
+
+let i = 3;
+let j = 17;
+let k = 12;
+
+i *= 12;
+j *= 9 ;
+k *=  7;
