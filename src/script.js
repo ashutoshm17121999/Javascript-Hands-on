@@ -8,3 +8,7 @@ multi-line comment */
 
 var myName;
 
+// Storing values with assignment operator
+
+var a;
+a = 7;
