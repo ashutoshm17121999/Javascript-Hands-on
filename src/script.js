@@ -23,3 +23,8 @@ b=a;
 // Intializing variables with assignment operator
 
 var a=9;
+
+// Declare string variables
+
+var myFirstName="ashutosh";
+var myLastName="mishra";
