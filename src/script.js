@@ -418,3 +418,17 @@ function nextInLine(arr, item) {
 function welcomeToBooleans() {
 return true; 
 }
+
+// use conditional logic with if statements
+
+function trueOrFalse(wasThatTrue) {
+    
+  if (wasThatTrue) {
+      return "Yes, that was true";
+    }
+    return "No, that was false"
+  }
+   
+  
+  trueOrFalse(true);
+  trueOrFalse(false);
