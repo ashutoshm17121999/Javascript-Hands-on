@@ -197,3 +197,9 @@ myStrg5 += someAdjective;
 let lastNameLength = 0;
 const lastName = "CedCoss";
 lastNameLength = lastName.length;
+
+// Use bracket notation to find the first character of a string
+
+let firstLetterOfLastName1 = "";
+const lastName1 = "Lovelace";
+firstLetterOfLastName1 = lastName1[0];
