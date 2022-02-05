@@ -65,3 +65,8 @@ const FCC = "freeCodeCamp";
 let fact = "is cool!"; 
 fact = "is awesome!";
 console.log(FCC, fact);
+
+// Add two number with javascript
+
+
+const sum = 100 + 100;
