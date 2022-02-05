@@ -256,3 +256,14 @@ const myData = myArray3[0];
 
 const myArray4 = [15, 64, 99];
 myArray4[0] = 45;
+
+// Access multi-dimensional array with indexes
+
+const myArray5 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData1 = myArray5[2][1];
