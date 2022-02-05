@@ -214,3 +214,9 @@ myStrg6 = "Hello World"
 const lastName2 = "Lovelace";
 
 const thirdLetterOfLastName2 = lastName2[2];
+
+// Use bracket notation to find the last character of a string 
+
+const lastName3 = "Lovelace";
+
+const lastLetterOfLastName3 = lastName3[lastName3.length-1];
