@@ -22,7 +22,8 @@ b=a;
 
 // Intializing variables with assignment operator
 
-var a=9;
+var a;
+a=9;
 
 // Declare string variables
 
@@ -38,3 +39,29 @@ var c="This is a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+
+// Understanding case senstivity in variables
+
+var properCamelCase;
+var studlyCapVar;
+var titleCaseOver;
+
+titleCaseOver=9000;
+studlyCapVar=10;
+properCamelCase="A String";
+
+
+// Explore differences between var and let variable
+
+
+let catName = "Oliver";
+let catSound = "Meow!";
+
+// Declare a read-only varible with const keyword
+
+
+const FCC = "freeCodeCamp";
+let fact = "is cool!"; 
+fact = "is awesome!";
+console.log(FCC, fact);
