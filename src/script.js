@@ -203,3 +203,8 @@ lastNameLength = lastName.length;
 let firstLetterOfLastName1 = "";
 const lastName1 = "Lovelace";
 firstLetterOfLastName1 = lastName1[0];
+
+// Use string immutability
+
+let myStrg6 = "Jello World";
+mystrg6 = "Hello World"
