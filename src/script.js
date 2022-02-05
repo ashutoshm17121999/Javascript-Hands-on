@@ -239,15 +239,20 @@ const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 // Store multiple values in one variable using javascript arrays
 
 
-const myArray = ["peanut butter", 2, "bread"];
+const myArray1 = ["peanut butter", 2, "bread"];
 
 // Nest one array with another array
 
 
-const myArray = [["Bulls", 23], ["White Sox", 45]];
+const myArray2 = [["Bulls", 23], ["White Sox", 45]];
 
 // Access array data with indexes
 
-const myArray = [50, 60, 70];
+const myArra3 = [50, 60, 70];
 
-const myData = myArray[0];
+const myData = myArray3[0];
+
+// Modify array data with indexes
+
+const myArray4 = [15, 64, 99];
+myArray4[0] = 45;
