@@ -280,5 +280,9 @@ const myArray7 = [["John", 23], ["dog", 3]];
 const removedFromMyArray7 = myArray7.shift();
 
 
+// Multiple array with pop()
 
+
+const myArray8 = [["John", 23], ["cat", 2]];
+const removedFromMyArray8 = myArray8.pop();
 
