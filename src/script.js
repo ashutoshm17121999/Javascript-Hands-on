@@ -386,8 +386,7 @@ addThree();
 addFive();
 
 // Assignment with a returned value
-
-
+// Setup
 let processed = 0;
 
 function processArg(num) {
