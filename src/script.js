@@ -184,3 +184,10 @@ myStrg3 += "This is the second sentence."
 
 const myName1 = "Ashutosh" ;
 const myStrg4 = "Hello, my name, is " + myName + ", how are you?";
+
+
+// Appending variables to strings
+
+const someAdjective = "awesome!";
+let myStrg5 = "Learning to code from W3School is ";
+myStr += someAdjective;
