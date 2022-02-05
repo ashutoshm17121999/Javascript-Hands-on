@@ -211,3 +211,6 @@ myStrg6 = "Hello World"
 
 // Use bracket notation to find the nth character of a string 
 
+const lastName2 = "Lovelace";
+
+const thirdLetterOfLastName2 = lastName2[2];
