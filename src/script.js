@@ -304,3 +304,16 @@ const myList = [["Chocolate Bar", 15], ["Fanta", 2], ["Sprite", 3], ["Pepsi", 4]
 function reusableFunction(){
     colnsole .log("Hi Ashutosh");
   }
+
+
+//   Passing values to function with arguements
+
+function functionWithArgs(q, r) {
+    console.log(q+r);
+  }
+  functionWithArgs(1,2);
+  functionWithArgs(7,9);
+
+
+//   Remove a value from a function with return
+
