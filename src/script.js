@@ -123,3 +123,14 @@ let c = 12;
 a += 12;
 b += 9 ;
 c +=  7;
+
+// compound assignment with augmented subtraction
+ 
+let x = 3;
+let y = 17;
+let z = 12;
+
+x -= 12;
+y -= 9 ;
+z =  7;
+
