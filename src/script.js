@@ -291,3 +291,9 @@ const removedFromMyArray8 = myArray8.pop();
 const myArray9 = [["John", 23], ["dog", 3]];
 myArray9.shift();
 myArray9.unshift(["Paul", 35]);
+
+
+// Shopping list
+
+
+const myList = [["Chocolate Bar", 15], ["Fanta", 2], ["Sprite", 3], ["Pepsi", 4], ["Lays", 5]];
