@@ -105,3 +105,7 @@ const myDecimal = 7.7;
 // Multiply two decimal nymbers
 
 const product = 8 * 9;
+
+// Divide one decimal with another
+
+const quotient = 14.4 / 2.0;
