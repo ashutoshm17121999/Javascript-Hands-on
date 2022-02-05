@@ -75,3 +75,8 @@ const sum = 100 + 100;
 // Subtract one number from another using javascript
 
 const difference = 150 -100;
+
+
+// Multiply two number
+
+const multiply = 15 * 15;
