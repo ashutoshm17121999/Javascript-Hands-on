@@ -193,3 +193,7 @@ let myStrg5 = "Learning to code from W3School is ";
 myStrg5 += someAdjective;
 
 // Find the length of the string
+
+let lastNameLength = 0;
+const lastName = "CedCoss";
+lastNameLength = lastName.length;
