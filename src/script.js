@@ -207,4 +207,7 @@ firstLetterOfLastName1 = lastName1[0];
 // Use string immutability
 
 let myStrg6 = "Jello World";
-mystrg6 = "Hello World"
+myStrg6 = "Hello World"
+
+// Use bracket notation to find the nth character of a string 
+
