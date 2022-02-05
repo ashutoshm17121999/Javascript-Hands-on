@@ -19,3 +19,7 @@ var a;
 a = 7;
 var b;
 b=a;
+
+// Intializing variables with assignment operator
+
+var a=9;
