@@ -239,4 +239,6 @@ const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 // Store multiple values in one variable using javascript arrays
 
 
-onst myArray = ["peanut butter", 2, "bread"];
+const myArray = ["peanut butter", 2, "bread"];
+
+
