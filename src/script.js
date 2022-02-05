@@ -190,4 +190,6 @@ const myStrg4 = "Hello, my name, is " + myName + ", how are you?";
 
 const someAdjective = "awesome!";
 let myStrg5 = "Learning to code from W3School is ";
-myStr += someAdjective;
+myStrg5 += someAdjective;
+
+// Find the length of the string
