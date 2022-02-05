@@ -169,3 +169,7 @@ const myStrg = '<a href="http://www.example.com" target="_blank">Link</a>';
 // Escape sequences in string 
 
 const myStrg1 = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+// Concatenating string with plus operator
+
+const myStrg2 = "This is the start." + " This is the end.";
