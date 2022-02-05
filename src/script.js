@@ -273,4 +273,12 @@ const myArray5 = [
 const myArray6 = [["John", 23], ["cat", 2]];
 myArray6.push(["dog", 3]);
 
+// Multiple array with shift()
+
+
+const myArray7 = [["John", 23], ["dog", 3]];
+const removedFromMyArray7 = myArray7.shift();
+
+
+
 
